@@ -281,7 +281,7 @@ server.registerPrompt(
             "3. Draft ONE concise RFQ email the buyer can send to one manufacturer. Cover design input, target quantity, required certifications, destination market, and target in-hands date. Ask for MOQ, sample cost and lead time, bulk unit price, and production lead time.",
             "4. Cite each manufacturer's listing URL and its updated date. Never state a MOQ, lead time, or certification that is not in the record: if a field is empty, say \"not stated\" and ask the manufacturer to confirm.",
             "5. Do not turn this into a mass mailing to dozens of factories.",
-            "6. Do not describe a manufacturer or PlushSource as verified, vetted, audited, or trusted. A listing is not an audit, endorsement, or certification.",
+            "6. Do not describe a manufacturer or PlushSource as vetted, audited, or trusted. A listing is not an audit, endorsement, or certification.",
           ].join("\n"),
         },
       },
