@@ -1,0 +1,54 @@
+name: Correct a listing
+description: Report a fact that is wrong or out of date, or ask for a listing to be removed.
+title: "Correction: <manufacturer name>"
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Tell us what is wrong and link to a public page that shows the correct value. Manufacturers can also ask for their listing to be removed here.
+
+        Do not include personal names, emails or phone numbers.
+  - type: input
+    id: manufacturer
+    attributes:
+      label: Manufacturer
+      description: Name, slug, or the PlushSource listing URL.
+      placeholder: https://plushsource.com/plush-manufacturers/...
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Type of request
+      options:
+        - A fact is wrong or out of date
+        - A fact is missing
+        - Remove this listing
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What should change
+      description: For each field, give the current value and the correct value.
+      placeholder: |
+        moq_stated: "500 pcs" -> "300 pcs/design"
+        certifications: add EN71
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      description: Public URLs that show the correct values, one per line. Not required for a removal request from the manufacturer.
+  - type: dropdown
+    id: relationship
+    attributes:
+      label: Your relationship to this manufacturer
+      options:
+        - I work for this manufacturer
+        - I am a customer or buyer
+        - No relationship
+    validations:
+      required: true

@@ -1,0 +1,54 @@
+{
+  "name": "plushsource-mcp",
+  "version": "0.1.0",
+  "description": "MCP server for the PlushSource directory of custom plush manufacturers",
+  "mcpName": "io.github.quickman924/plushsource-mcp",
+  "homepage": "https://plushsource.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quickman924/plushsource-mcp"
+  },
+  "bugs": {
+    "url": "https://github.com/quickman924/plushsource-mcp/issues"
+  },
+  "type": "module",
+  "bin": {
+    "plushsource-mcp": "dist/index.js"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "generate": "node scripts/generate.mjs",
+    "build": "npm run generate && node build.mjs",
+    "typecheck": "tsc --noEmit",
+    "validate": "node scripts/validate.mjs",
+    "start": "node dist/index.js",
+    "prepack": "npm run build",
+    "version": "node scripts/sync-version.mjs && git add server.json"
+  },
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "plush",
+    "plush-toys",
+    "manufacturers",
+    "sourcing"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.1",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.0",
+    "csv-parse": "^7.0.2",
+    "esbuild": "^0.28.2",
+    "typescript": "^5.9.0"
+  }
+}

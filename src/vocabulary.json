@@ -1,0 +1,267 @@
+{
+  "site": {
+    "name": "PlushSource",
+    "url": "https://plushsource.com",
+    "tagline": "Find the right manufacturer for your plush project.",
+    "description": "PlushSource is an independent directory of custom plush manufacturers. We list who each manufacturer is, where they operate, their minimum order quantities, services, certifications, and what kinds of clients they serve.",
+    "criteria": "https://plushsource.com/about/criteria"
+  },
+  "countries": [
+    {
+      "slug": "china",
+      "name": "China",
+      "code": "CN",
+      "url": "plush-manufacturers-china"
+    },
+    {
+      "slug": "vietnam",
+      "name": "Vietnam",
+      "code": "VN",
+      "url": "plush-manufacturers-vietnam"
+    },
+    {
+      "slug": "usa",
+      "name": "United States",
+      "code": "US",
+      "url": "plush-manufacturers-usa"
+    },
+    {
+      "slug": "uk",
+      "name": "United Kingdom",
+      "code": "GB",
+      "url": "plush-manufacturers-uk"
+    },
+    {
+      "slug": "germany",
+      "name": "Germany",
+      "code": "DE",
+      "url": "plush-manufacturers-germany"
+    },
+    {
+      "slug": "france",
+      "name": "France",
+      "code": "FR",
+      "url": "plush-manufacturers-france"
+    },
+    {
+      "slug": "poland",
+      "name": "Poland",
+      "code": "PL",
+      "url": "plush-manufacturers-poland"
+    },
+    {
+      "slug": "portugal",
+      "name": "Portugal",
+      "code": "PT",
+      "url": "plush-manufacturers-portugal"
+    },
+    {
+      "slug": "netherlands",
+      "name": "Netherlands",
+      "code": "NL",
+      "url": "plush-manufacturers-netherlands"
+    },
+    {
+      "slug": "italy",
+      "name": "Italy",
+      "code": "IT",
+      "url": "plush-manufacturers-italy"
+    },
+    {
+      "slug": "spain",
+      "name": "Spain",
+      "code": "ES",
+      "url": "plush-manufacturers-spain"
+    },
+    {
+      "slug": "south-korea",
+      "name": "South Korea",
+      "code": "KR",
+      "url": "plush-manufacturers-south-korea"
+    },
+    {
+      "slug": "japan",
+      "name": "Japan",
+      "code": "JP",
+      "url": "plush-manufacturers-japan"
+    },
+    {
+      "slug": "taiwan",
+      "name": "Taiwan, China",
+      "code": "TW",
+      "url": "plush-manufacturers-taiwan"
+    },
+    {
+      "slug": "hong-kong",
+      "name": "Hong Kong, China",
+      "code": "HK",
+      "url": "plush-manufacturers-hong-kong"
+    },
+    {
+      "slug": "turkey",
+      "name": "Turkey",
+      "code": "TR",
+      "url": "plush-manufacturers-turkey"
+    },
+    {
+      "slug": "india",
+      "name": "India",
+      "code": "IN",
+      "url": "plush-manufacturers-india"
+    },
+    {
+      "slug": "singapore",
+      "name": "Singapore",
+      "code": "SG",
+      "url": "plush-manufacturers-singapore"
+    }
+  ],
+  "categories": [
+    {
+      "slug": "custom-plush",
+      "name": "Custom Plush",
+      "desc": "Made to your own design",
+      "url": "custom-plush-manufacturers"
+    },
+    {
+      "slug": "low-moq",
+      "name": "Low MOQ",
+      "desc": "Minimums under 300 pcs",
+      "url": "low-moq-plush-manufacturers"
+    },
+    {
+      "slug": "oem-odm",
+      "name": "OEM & ODM",
+      "desc": "Your design or theirs",
+      "url": "plush-oem-odm-manufacturers"
+    },
+    {
+      "slug": "prototype-sampling",
+      "name": "Prototype & Sampling",
+      "desc": "First samples, fast",
+      "url": "prototype-sampling-plush-manufacturers"
+    },
+    {
+      "slug": "character-plush",
+      "name": "Character Plush",
+      "desc": "IP & original characters",
+      "url": "character-plush-manufacturers"
+    },
+    {
+      "slug": "mascot-plush",
+      "name": "Mascot Plush",
+      "desc": "Brand & team mascots",
+      "url": "mascot-plush-manufacturers"
+    },
+    {
+      "slug": "promotional-plush",
+      "name": "Promotional Plush",
+      "desc": "Events & giveaways",
+      "url": "promotional-plush-manufacturers"
+    },
+    {
+      "slug": "kickstarter",
+      "name": "Kickstarter / Crowdfunding",
+      "desc": "Campaign-ready makers",
+      "url": "kickstarter-plush-manufacturers"
+    },
+    {
+      "slug": "keychains",
+      "name": "Plush Keychains",
+      "desc": "Small-format plush",
+      "url": "plush-keychain-manufacturers"
+    }
+  ],
+  "certifications": [
+    "CE",
+    "EN71",
+    "ASTM",
+    "CPSIA",
+    "BSCI",
+    "Sedex",
+    "ISO9001",
+    "ICTI",
+    "GOTS",
+    "FAMA",
+    "GRS",
+    "ISO8124",
+    "KC",
+    "ST",
+    "CPC",
+    "Prop65"
+  ],
+  "products": {
+    "stuffed-animals": "Stuffed Animals",
+    "character-plush": "Character Plush",
+    "mascot-plush": "Mascot Plush",
+    "plush-dolls": "Plush Dolls",
+    "cotton-dolls": "Cotton Dolls",
+    "plush-keychains": "Plush Keychains",
+    "promotional-plush": "Promotional Plush",
+    "pillows": "Pillows",
+    "art-toys": "Art Toys",
+    "baby-plush": "Baby Plush",
+    "plush-houseware": "Plush Houseware",
+    "corporate-gifts": "Corporate Gifts",
+    "other": "Other"
+  },
+  "designInputs": {
+    "artwork": "Artwork",
+    "sketch": "Sketch",
+    "photo": "Photo",
+    "3d-model": "3D Model",
+    "character-design": "Character Design",
+    "logo-mascot": "Logo / Mascot",
+    "physical-sample": "Physical Sample",
+    "tech-pack": "Tech Pack",
+    "written-brief": "Written Brief"
+  },
+  "industries": {
+    "ip-licensing": "IP Licensing",
+    "gaming": "Gaming",
+    "anime": "Anime",
+    "brands": "Brands",
+    "marketing-events": "Marketing & Events",
+    "kickstarter": "Kickstarter",
+    "corporate-gifts": "Corporate Gifts",
+    "education": "Education",
+    "sports": "Sports",
+    "museums": "Museums"
+  },
+  "services": {
+    "custom": "Custom Plush",
+    "oem": "OEM",
+    "odm": "ODM",
+    "prototype": "Prototype",
+    "sampling": "Sampling",
+    "mass-production": "Mass Production",
+    "custom-packaging": "Custom Packaging"
+  },
+  "moqBands": [
+    {
+      "band": "micro",
+      "label": "Micro (1–99 pcs)",
+      "min": 1,
+      "max": 99
+    },
+    {
+      "band": "low",
+      "label": "Low (100–299 pcs)",
+      "min": 100,
+      "max": 299
+    },
+    {
+      "band": "standard",
+      "label": "Standard (300–999 pcs)",
+      "min": 300,
+      "max": 999
+    },
+    {
+      "band": "bulk",
+      "label": "Bulk (1000+ pcs)",
+      "min": 1000,
+      "max": null
+    }
+  ],
+  "countryPageMin": 3
+}

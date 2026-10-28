@@ -1,0 +1,96 @@
+name: Add a manufacturer
+description: Ask for a custom plush manufacturer to be added to the list.
+title: "Add: <manufacturer name>"
+labels: ["add-manufacturer"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a manufacturer. Please check the [listing criteria](https://plushsource.com/about/criteria) first.
+
+        **Every fact needs a public page that states it.** Leave a field empty if the manufacturer does not publish it. Do not include personal names, emails or phone numbers, and do not paste marketing copy.
+
+        Listing is free and is not an endorsement.
+  - type: input
+    id: name
+    attributes:
+      label: Manufacturer name
+      description: Trading name, plus the legal name if it differs.
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Official website
+      placeholder: https://
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      description: City and country where production or the main operation is, as stated by the manufacturer.
+      placeholder: Dongguan, Guangdong, China
+    validations:
+      required: true
+  - type: input
+    id: moq
+    attributes:
+      label: Minimum order quantity (as stated)
+      placeholder: 100 pcs/design
+  - type: input
+    id: sample_time
+    attributes:
+      label: Sample lead time (as stated)
+      placeholder: 7–10 days
+  - type: input
+    id: production_time
+    attributes:
+      label: Bulk production lead time (as stated)
+      placeholder: 25–35 days
+  - type: checkboxes
+    id: services
+    attributes:
+      label: Services
+      options:
+        - label: OEM (produces to the client's own design)
+        - label: ODM (in-house design or development)
+  - type: input
+    id: products
+    attributes:
+      label: Products
+      description: e.g. stuffed animals, mascot plush, plush keychains, cotton dolls, pillows
+  - type: input
+    id: certifications
+    attributes:
+      label: Certifications or test standards publicly claimed
+      description: e.g. EN71, ASTM, CPSIA, BSCI, ISO9001. Link to the proof below.
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      description: Public URLs that prove the facts above, one per line. Say which fact each link supports.
+      placeholder: |
+        https://example.com/about  (location, founded)
+        https://example.com/custom-plush  (MOQ, lead times)
+    validations:
+      required: true
+  - type: dropdown
+    id: relationship
+    attributes:
+      label: Your relationship to this manufacturer
+      options:
+        - I work for this manufacturer
+        - I am a customer or buyer
+        - No relationship
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: Every fact above can be checked on the linked public pages.
+          required: true
+        - label: I agree that this data is published under CC BY 4.0.
+          required: true

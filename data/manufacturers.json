@@ -1,0 +1,2751 @@
+{
+  "name": "PlushSource open manufacturer dataset",
+  "license": "CC-BY-4.0",
+  "attribution": "PlushSource (https://plushsource.com)",
+  "homepage": "https://plushsource.com",
+  "last_updated": "2026-10-26",
+  "count": 55,
+  "manufacturers": [
+    {
+      "slug": "amber-soft-toys-teddy-maber-s-l",
+      "name": "Amber Soft Toys (Teddy Maber, S.L.)",
+      "website": "https://ambersofttoys.com/",
+      "country": "spain",
+      "additional_countries": [],
+      "city": "Totana",
+      "location": "Totana, Murcia, Spain",
+      "moq": null,
+      "moq_stated": "",
+      "moq_band": null,
+      "sample_time": "",
+      "production_time": "",
+      "oem": false,
+      "odm": false,
+      "services": [
+        "custom"
+      ],
+      "categories": [
+        "custom-plush",
+        "promotional-plush"
+      ],
+      "products": [
+        "stuffed-animals",
+        "promotional-plush"
+      ],
+      "design_inputs": [],
+      "certifications": [],
+      "industries": [
+        "brands",
+        "marketing-events"
+      ],
+      "founded": 1987,
+      "years_experience": null,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/amber-soft-toys-teddy-maber-s-l",
+      "sources": [],
+      "added": "2026-10-17",
+      "updated": "2026-10-17"
+    },
+    {
+      "slug": "aoki-co-ltd-aokiminatsuki",
+      "name": "Aoki Co., Ltd. (aokiminatsuki)",
+      "website": "https://aokiminatsuki.com/",
+      "country": "japan",
+      "additional_countries": [],
+      "city": "Chuo-ku",
+      "location": "Chuo-ku, Osaka, Japan",
+      "moq": null,
+      "moq_stated": "",
+      "moq_band": null,
+      "sample_time": "",
+      "production_time": "",
+      "oem": true,
+      "odm": true,
+      "services": [
+        "custom",
+        "oem",
+        "odm"
+      ],
+      "categories": [
+        "custom-plush",
+        "oem-odm"
+      ],
+      "products": [
+        "stuffed-animals",
+        "pillows"
+      ],
+      "design_inputs": [],
+      "certifications": [],
+      "industries": [],
+      "founded": null,
+      "years_experience": null,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/aoki-co-ltd-aokiminatsuki",
+      "sources": [],
+      "added": "2026-10-26",
+      "updated": "2026-10-26"
+    },
+    {
+      "slug": "bella-plush-dongguan-bella-toys",
+      "name": "Bella Plush / Dongguan Bella Toys",
+      "website": "https://www.customplush-factory.com/",
+      "country": "china",
+      "additional_countries": [],
+      "city": "Dongguan",
+      "location": "Dongguan, China",
+      "moq": 100,
+      "moq_stated": "100 pcs/design",
+      "moq_band": "low",
+      "sample_time": "7–10 days",
+      "production_time": "25–35 days",
+      "oem": true,
+      "odm": true,
+      "services": [
+        "custom",
+        "oem",
+        "odm",
+        "sampling"
+      ],
+      "categories": [
+        "custom-plush",
+        "low-moq",
+        "oem-odm",
+        "prototype-sampling",
+        "mascot-plush",
+        "kickstarter",
+        "keychains"
+      ],
+      "products": [
+        "stuffed-animals",
+        "mascot-plush",
+        "plush-keychains"
+      ],
+      "design_inputs": [
+        "sketch",
+        "artwork",
+        "photo",
+        "written-brief"
+      ],
+      "certifications": [
+        "EN71",
+        "ASTM",
+        "CPSIA"
+      ],
+      "industries": [
+        "kickstarter",
+        "brands"
+      ],
+      "founded": null,
+      "years_experience": 10,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/bella-plush-dongguan-bella-toys",
+      "sources": [],
+      "added": "2026-10-08",
+      "updated": "2026-10-08"
+    },
+    {
+      "slug": "bellydesign-gmbh",
+      "name": "bellydesign gmbh",
+      "website": "https://www.bellydesign.de/",
+      "country": "germany",
+      "additional_countries": [],
+      "city": "Bamberg",
+      "location": "Bamberg, Germany",
+      "moq": 1,
+      "moq_stated": "1.000 pcs",
+      "moq_band": "micro",
+      "sample_time": "21 days (first sample), first sketch in 2 days",
+      "production_time": "",
+      "oem": false,
+      "odm": false,
+      "services": [
+        "custom",
+        "sampling"
+      ],
+      "categories": [
+        "custom-plush",
+        "low-moq",
+        "prototype-sampling",
+        "keychains"
+      ],
+      "products": [
+        "stuffed-animals",
+        "plush-keychains"
+      ],
+      "design_inputs": [
+        "sketch"
+      ],
+      "certifications": [
+        "EN71"
+      ],
+      "industries": [
+        "brands"
+      ],
+      "founded": null,
+      "years_experience": 17,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/bellydesign-gmbh",
+      "sources": [],
+      "added": "2026-10-17",
+      "updated": "2026-10-17"
+    },
+    {
+      "slug": "best-plush-inc",
+      "name": "Best Plush Inc.",
+      "website": "https://www.bestplush.com/",
+      "country": "usa",
+      "additional_countries": [],
+      "city": "Mt. Laurel",
+      "location": "Mt. Laurel, New Jersey, USA",
+      "moq": null,
+      "moq_stated": "",
+      "moq_band": null,
+      "sample_time": "Free prototype / pre-production sample",
+      "production_time": "",
+      "oem": false,
+      "odm": false,
+      "services": [
+        "custom",
+        "sampling"
+      ],
+      "categories": [
+        "custom-plush",
+        "prototype-sampling",
+        "promotional-plush"
+      ],
+      "products": [
+        "promotional-plush"
+      ],
+      "design_inputs": [
+        "artwork"
+      ],
+      "certifications": [],
+      "industries": [
+        "marketing-events",
+        "corporate-gifts"
+      ],
+      "founded": 1988,
+      "years_experience": null,
+      "capacity": "Factory network",
+      "listing_url": "https://plushsource.com/plush-manufacturers/best-plush-inc",
+      "sources": [],
+      "added": "2026-10-08",
+      "updated": "2026-10-08"
+    },
+    {
+      "slug": "brazier-and-co",
+      "name": "Brazier & Co.",
+      "website": "https://www.brazierandco.co.uk/custom-toys/custom-plush/plush-toys/",
+      "country": "uk",
+      "additional_countries": [],
+      "city": null,
+      "location": "UK design + factories in Europe and Asia",
+      "moq": 500,
+      "moq_stated": "Typically 500; may vary by item",
+      "moq_band": "standard",
+      "sample_time": "Hand sample ~14 days",
+      "production_time": "3–4 months to delivery",
+      "oem": false,
+      "odm": false,
+      "services": [
+        "custom",
+        "sampling"
+      ],
+      "categories": [
+        "custom-plush",
+        "prototype-sampling",
+        "promotional-plush",
+        "keychains"
+      ],
+      "products": [
+        "plush-keychains",
+        "other"
+      ],
+      "design_inputs": [
+        "artwork"
+      ],
+      "certifications": [
+        "ICTI",
+        "GOTS"
+      ],
+      "industries": [
+        "marketing-events",
+        "corporate-gifts"
+      ],
+      "founded": null,
+      "years_experience": null,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/brazier-and-co",
+      "sources": [],
+      "added": "2026-10-08",
+      "updated": "2026-10-08"
+    },
+    {
+      "slug": "budsies",
+      "name": "Budsies",
+      "website": "https://www.budsies.com/",
+      "country": "usa",
+      "additional_countries": [],
+      "city": null,
+      "location": "USA",
+      "moq": null,
+      "moq_stated": "",
+      "moq_band": null,
+      "sample_time": "",
+      "production_time": "",
+      "oem": false,
+      "odm": false,
+      "services": [
+        "custom"
+      ],
+      "categories": [
+        "custom-plush",
+        "keychains"
+      ],
+      "products": [
+        "stuffed-animals",
+        "pillows",
+        "plush-keychains"
+      ],
+      "design_inputs": [
+        "artwork",
+        "photo"
+      ],
+      "certifications": [],
+      "industries": [],
+      "founded": 2013,
+      "years_experience": null,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/budsies",
+      "sources": [],
+      "added": "2026-10-26",
+      "updated": "2026-10-26"
+    },
+    {
+      "slug": "cosytoys",
+      "name": "CosyToys",
+      "website": "https://www.cosytoys.in/",
+      "country": "india",
+      "additional_countries": [],
+      "city": "Noida",
+      "location": "Noida, Uttar Pradesh, India",
+      "moq": 500,
+      "moq_stated": "500 units",
+      "moq_band": "standard",
+      "sample_time": "",
+      "production_time": "",
+      "oem": true,
+      "odm": true,
+      "services": [
+        "custom",
+        "oem",
+        "odm"
+      ],
+      "categories": [
+        "custom-plush",
+        "oem-odm"
+      ],
+      "products": [
+        "stuffed-animals",
+        "pillows"
+      ],
+      "design_inputs": [
+        "sketch",
+        "photo"
+      ],
+      "certifications": [
+        "ISO9001",
+        "CE",
+        "EN71",
+        "ASTM",
+        "Sedex"
+      ],
+      "industries": [
+        "corporate-gifts",
+        "brands"
+      ],
+      "founded": null,
+      "years_experience": null,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/cosytoys",
+      "sources": [],
+      "added": "2026-10-26",
+      "updated": "2026-10-26"
+    },
+    {
+      "slug": "cozypuff",
+      "name": "CozyPuff",
+      "website": "https://custom-plush.com/custom-mascot-plush",
+      "country": "china",
+      "additional_countries": [],
+      "city": "Shenzhen",
+      "location": "Shenzhen, China",
+      "moq": 100,
+      "moq_stated": "100 units/design",
+      "moq_band": "low",
+      "sample_time": "",
+      "production_time": "",
+      "oem": true,
+      "odm": true,
+      "services": [
+        "custom",
+        "oem",
+        "odm"
+      ],
+      "categories": [
+        "custom-plush",
+        "low-moq",
+        "oem-odm",
+        "character-plush",
+        "mascot-plush",
+        "promotional-plush"
+      ],
+      "products": [
+        "mascot-plush"
+      ],
+      "design_inputs": [
+        "character-design",
+        "artwork"
+      ],
+      "certifications": [],
+      "industries": [
+        "marketing-events",
+        "brands",
+        "ip-licensing",
+        "corporate-gifts"
+      ],
+      "founded": 2013,
+      "years_experience": null,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/cozypuff",
+      "sources": [],
+      "added": "2026-10-08",
+      "updated": "2026-10-08"
+    },
+    {
+      "slug": "creaciones-artesavi-s-l-u-artesavi",
+      "name": "Creaciones Artesavi, S.L.U. (Artesavi)",
+      "website": "https://www.artesavi.com/",
+      "country": "spain",
+      "additional_countries": [],
+      "city": "La Palma de Cervelló (Barcelona)",
+      "location": "La Palma de Cervelló (Barcelona), Spain",
+      "moq": 1000,
+      "moq_stated": "1,000 pcs",
+      "moq_band": "bulk",
+      "sample_time": "",
+      "production_time": "",
+      "oem": false,
+      "odm": false,
+      "services": [
+        "custom"
+      ],
+      "categories": [
+        "custom-plush",
+        "promotional-plush"
+      ],
+      "products": [
+        "stuffed-animals",
+        "baby-plush"
+      ],
+      "design_inputs": [],
+      "certifications": [
+        "EN71",
+        "ICTI"
+      ],
+      "industries": [
+        "brands",
+        "marketing-events"
+      ],
+      "founded": 1972,
+      "years_experience": null,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/creaciones-artesavi-s-l-u-artesavi",
+      "sources": [],
+      "added": "2026-10-17",
+      "updated": "2026-10-17"
+    },
+    {
+      "slug": "creapeluche-gsf-promotion",
+      "name": "CreaPeluche (GSF Promotion)",
+      "website": "https://www.creapeluche.it/",
+      "country": "italy",
+      "additional_countries": [],
+      "city": "Roma",
+      "location": "Roma, Italy",
+      "moq": 1000,
+      "moq_stated": "1,000 pcs",
+      "moq_band": "bulk",
+      "sample_time": "",
+      "production_time": "",
+      "oem": false,
+      "odm": false,
+      "services": [
+        "custom"
+      ],
+      "categories": [
+        "custom-plush",
+        "promotional-plush"
+      ],
+      "products": [
+        "stuffed-animals",
+        "promotional-plush"
+      ],
+      "design_inputs": [
+        "sketch",
+        "artwork"
+      ],
+      "certifications": [
+        "EN71",
+        "CE"
+      ],
+      "industries": [
+        "brands",
+        "marketing-events"
+      ],
+      "founded": null,
+      "years_experience": 15,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/creapeluche-gsf-promotion",
+      "sources": [],
+      "added": "2026-10-17",
+      "updated": "2026-10-17"
+    },
+    {
+      "slug": "creatoys-srl",
+      "name": "Creatoys Srl",
+      "website": "https://creatoys.it/",
+      "country": "italy",
+      "additional_countries": [],
+      "city": "Monza",
+      "location": "Monza, Italy",
+      "moq": null,
+      "moq_stated": "",
+      "moq_band": null,
+      "sample_time": "",
+      "production_time": "about 40 days",
+      "oem": false,
+      "odm": false,
+      "services": [
+        "custom"
+      ],
+      "categories": [
+        "custom-plush",
+        "character-plush",
+        "mascot-plush",
+        "promotional-plush"
+      ],
+      "products": [
+        "stuffed-animals",
+        "mascot-plush",
+        "promotional-plush",
+        "baby-plush"
+      ],
+      "design_inputs": [
+        "character-design",
+        "artwork",
+        "sketch",
+        "photo"
+      ],
+      "certifications": [
+        "EN71"
+      ],
+      "industries": [
+        "brands",
+        "marketing-events"
+      ],
+      "founded": null,
+      "years_experience": 20,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/creatoys-srl",
+      "sources": [],
+      "added": "2026-10-17",
+      "updated": "2026-10-17"
+    },
+    {
+      "slug": "cudoratoy",
+      "name": "CudoraToy",
+      "website": "https://cudoratoy.com/",
+      "country": "china",
+      "additional_countries": [],
+      "city": "Jinhua",
+      "location": "Jinhua, Zhejiang (factory in Tai'an, Shandong), China",
+      "moq": 100,
+      "moq_stated": "From 100 pcs/design for selected projects",
+      "moq_band": "low",
+      "sample_time": "",
+      "production_time": "",
+      "oem": true,
+      "odm": true,
+      "services": [
+        "custom",
+        "oem",
+        "odm"
+      ],
+      "categories": [
+        "custom-plush",
+        "low-moq",
+        "oem-odm",
+        "character-plush",
+        "mascot-plush",
+        "promotional-plush"
+      ],
+      "products": [
+        "baby-plush",
+        "mascot-plush"
+      ],
+      "design_inputs": [
+        "artwork",
+        "logo-mascot",
+        "character-design",
+        "written-brief"
+      ],
+      "certifications": [
+        "BSCI",
+        "Sedex",
+        "EN71",
+        "ASTM",
+        "CPSIA"
+      ],
+      "industries": [
+        "corporate-gifts",
+        "brands",
+        "marketing-events"
+      ],
+      "founded": null,
+      "years_experience": 24,
+      "capacity": "120+ workers; 2,000 m²",
+      "listing_url": "https://plushsource.com/plush-manufacturers/cudoratoy",
+      "sources": [],
+      "added": "2026-10-08",
+      "updated": "2026-10-08"
+    },
+    {
+      "slug": "custom-plush-china",
+      "name": "Custom Plush China",
+      "website": "https://customplushchina.com/products/custom-mascot-plush",
+      "country": "china",
+      "additional_countries": [],
+      "city": "Shenzhen",
+      "location": "Shenzhen, Guangdong, China",
+      "moq": 100,
+      "moq_stated": "100 pcs/design",
+      "moq_band": "low",
+      "sample_time": "7–10 days",
+      "production_time": "25–35 days",
+      "oem": false,
+      "odm": false,
+      "services": [
+        "custom",
+        "sampling"
+      ],
+      "categories": [
+        "custom-plush",
+        "low-moq",
+        "prototype-sampling",
+        "mascot-plush",
+        "promotional-plush"
+      ],
+      "products": [
+        "mascot-plush"
+      ],
+      "design_inputs": [
+        "logo-mascot",
+        "photo",
+        "3d-model"
+      ],
+      "certifications": [],
+      "industries": [
+        "brands",
+        "sports",
+        "marketing-events",
+        "ip-licensing"
+      ],
+      "founded": null,
+      "years_experience": null,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/custom-plush-china",
+      "sources": [],
+      "added": "2026-10-08",
+      "updated": "2026-10-08"
+    },
+    {
+      "slug": "custom-plush-toy-factory-shenzhen",
+      "name": "Custom Plush Toy Factory (Shenzhen)",
+      "website": "https://customplushtoyfactory.com/",
+      "country": "china",
+      "additional_countries": [],
+      "city": "Shenzhen",
+      "location": "Shenzhen, China",
+      "moq": 300,
+      "moq_stated": "300 pcs/design and colourway",
+      "moq_band": "standard",
+      "sample_time": "7–10 working days",
+      "production_time": "25–35 days",
+      "oem": true,
+      "odm": true,
+      "services": [
+        "custom",
+        "oem",
+        "odm",
+        "sampling"
+      ],
+      "categories": [
+        "custom-plush",
+        "oem-odm",
+        "prototype-sampling",
+        "mascot-plush",
+        "promotional-plush",
+        "keychains"
+      ],
+      "products": [
+        "stuffed-animals",
+        "mascot-plush",
+        "cotton-dolls",
+        "plush-keychains",
+        "art-toys"
+      ],
+      "design_inputs": [
+        "sketch",
+        "artwork",
+        "photo",
+        "3d-model"
+      ],
+      "certifications": [
+        "EN71",
+        "ASTM",
+        "CPSIA"
+      ],
+      "industries": [
+        "brands",
+        "ip-licensing",
+        "marketing-events",
+        "corporate-gifts"
+      ],
+      "founded": null,
+      "years_experience": 17,
+      "capacity": "500k+ pieces/month across plush and vinyl",
+      "listing_url": "https://plushsource.com/plush-manufacturers/custom-plush-toy-factory-shenzhen",
+      "sources": [],
+      "added": "2026-10-08",
+      "updated": "2026-10-08"
+    },
+    {
+      "slug": "custom-toys-uk-hotcraze-ltd",
+      "name": "Custom Toys UK (HOTcraze Ltd)",
+      "website": "https://customtoys.com/",
+      "country": "uk",
+      "additional_countries": [],
+      "city": "Ramsgate",
+      "location": "Ramsgate, Kent, United Kingdom",
+      "moq": null,
+      "moq_stated": "",
+      "moq_band": null,
+      "sample_time": "",
+      "production_time": "",
+      "oem": false,
+      "odm": false,
+      "services": [
+        "custom"
+      ],
+      "categories": [
+        "custom-plush",
+        "promotional-plush"
+      ],
+      "products": [
+        "stuffed-animals",
+        "promotional-plush"
+      ],
+      "design_inputs": [
+        "sketch",
+        "artwork"
+      ],
+      "certifications": [
+        "EN71",
+        "CE"
+      ],
+      "industries": [
+        "brands",
+        "marketing-events"
+      ],
+      "founded": null,
+      "years_experience": null,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/custom-toys-uk-hotcraze-ltd",
+      "sources": [],
+      "added": "2026-10-17",
+      "updated": "2026-10-17"
+    },
+    {
+      "slug": "customplush-com-beverly-hills-teddy-bear-company",
+      "name": "CustomPlush.com (Beverly Hills Teddy Bear Company)",
+      "website": "https://customplush.com/",
+      "country": "usa",
+      "additional_countries": [],
+      "city": "Sylmar",
+      "location": "Sylmar, California, USA",
+      "moq": 500,
+      "moq_stated": "500 units",
+      "moq_band": "standard",
+      "sample_time": "3-4 weeks",
+      "production_time": "",
+      "oem": true,
+      "odm": false,
+      "services": [
+        "custom",
+        "oem",
+        "sampling"
+      ],
+      "categories": [
+        "custom-plush",
+        "oem-odm",
+        "prototype-sampling"
+      ],
+      "products": [
+        "stuffed-animals"
+      ],
+      "design_inputs": [
+        "artwork"
+      ],
+      "certifications": [],
+      "industries": [
+        "brands"
+      ],
+      "founded": null,
+      "years_experience": null,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/customplush-com-beverly-hills-teddy-bear-company",
+      "sources": [],
+      "added": "2026-10-26",
+      "updated": "2026-10-26"
+    },
+    {
+      "slug": "customplush-toy",
+      "name": "CustomPlush-Toy",
+      "website": "https://customplush-toy.com/",
+      "country": "china",
+      "additional_countries": [],
+      "city": "Shenzhen",
+      "location": "Shenzhen, China",
+      "moq": 100,
+      "moq_stated": "100 pcs/design; 500 for arcade plush",
+      "moq_band": "low",
+      "sample_time": "~7 days",
+      "production_time": "",
+      "oem": false,
+      "odm": false,
+      "services": [
+        "custom",
+        "sampling"
+      ],
+      "categories": [
+        "custom-plush",
+        "low-moq",
+        "prototype-sampling",
+        "character-plush",
+        "mascot-plush",
+        "promotional-plush",
+        "kickstarter",
+        "keychains"
+      ],
+      "products": [
+        "plush-keychains",
+        "stuffed-animals",
+        "cotton-dolls",
+        "mascot-plush",
+        "character-plush",
+        "other"
+      ],
+      "design_inputs": [
+        "character-design",
+        "logo-mascot",
+        "photo"
+      ],
+      "certifications": [
+        "EN71",
+        "ASTM"
+      ],
+      "industries": [
+        "brands",
+        "kickstarter",
+        "gaming",
+        "anime",
+        "marketing-events"
+      ],
+      "founded": 2013,
+      "years_experience": null,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/customplush-toy",
+      "sources": [],
+      "added": "2026-10-08",
+      "updated": "2026-10-08"
+    },
+    {
+      "slug": "delsney",
+      "name": "Delsney",
+      "website": "https://delsney.com/",
+      "country": "china",
+      "additional_countries": [],
+      "city": "Shenzhen",
+      "location": "Shenzhen, China",
+      "moq": 500,
+      "moq_stated": "500 pcs/design",
+      "moq_band": "standard",
+      "sample_time": "5–7 days regular; 7–15 days complex",
+      "production_time": "20–30 days",
+      "oem": true,
+      "odm": true,
+      "services": [
+        "custom",
+        "oem",
+        "odm",
+        "sampling"
+      ],
+      "categories": [
+        "custom-plush",
+        "oem-odm",
+        "prototype-sampling",
+        "character-plush",
+        "mascot-plush",
+        "promotional-plush",
+        "kickstarter"
+      ],
+      "products": [
+        "stuffed-animals",
+        "character-plush",
+        "other"
+      ],
+      "design_inputs": [
+        "logo-mascot",
+        "character-design",
+        "artwork",
+        "written-brief",
+        "physical-sample",
+        "tech-pack"
+      ],
+      "certifications": [
+        "CE",
+        "EN71",
+        "ASTM",
+        "CPSIA",
+        "BSCI",
+        "Sedex"
+      ],
+      "industries": [
+        "brands",
+        "ip-licensing",
+        "corporate-gifts",
+        "marketing-events",
+        "kickstarter"
+      ],
+      "founded": null,
+      "years_experience": 18,
+      "capacity": "500+ staff; 18 production lines",
+      "listing_url": "https://plushsource.com/plush-manufacturers/delsney",
+      "sources": [],
+      "added": "2026-10-08",
+      "updated": "2026-10-08"
+    },
+    {
+      "slug": "der-kuscheltiere-hersteller-fun-experts-gmbh",
+      "name": "Der Kuscheltiere-Hersteller (Fun Experts GmbH)",
+      "website": "https://kuscheltiere-hersteller.de/",
+      "country": "germany",
+      "additional_countries": [
+        "netherlands"
+      ],
+      "city": "Kleve",
+      "location": "Kleve, Germany (locations in Germany and the Netherlands)",
+      "moq": 500,
+      "moq_stated": "500 pcs/design (higher minimum for plush keychains)",
+      "moq_band": "standard",
+      "sample_time": "",
+      "production_time": "",
+      "oem": false,
+      "odm": false,
+      "services": [
+        "custom"
+      ],
+      "categories": [
+        "custom-plush",
+        "promotional-plush",
+        "keychains"
+      ],
+      "products": [
+        "stuffed-animals",
+        "plush-keychains",
+        "pillows"
+      ],
+      "design_inputs": [
+        "artwork",
+        "sketch",
+        "photo"
+      ],
+      "certifications": [
+        "ICTI",
+        "EN71",
+        "CE"
+      ],
+      "industries": [
+        "corporate-gifts",
+        "marketing-events"
+      ],
+      "founded": 2008,
+      "years_experience": null,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/der-kuscheltiere-hersteller-fun-experts-gmbh",
+      "sources": [],
+      "added": "2026-10-17",
+      "updated": "2026-10-17"
+    },
+    {
+      "slug": "dixin-toys",
+      "name": "Dixin Toys",
+      "website": "https://www.dxplushtoys.com/",
+      "country": "china",
+      "additional_countries": [],
+      "city": null,
+      "location": "China",
+      "moq": null,
+      "moq_stated": "",
+      "moq_band": null,
+      "sample_time": "",
+      "production_time": "",
+      "oem": true,
+      "odm": true,
+      "services": [
+        "custom",
+        "oem",
+        "odm"
+      ],
+      "categories": [
+        "custom-plush",
+        "oem-odm",
+        "character-plush"
+      ],
+      "products": [
+        "stuffed-animals",
+        "character-plush",
+        "corporate-gifts"
+      ],
+      "design_inputs": [
+        "artwork"
+      ],
+      "certifications": [
+        "BSCI",
+        "ISO9001",
+        "GRS",
+        "FAMA"
+      ],
+      "industries": [
+        "brands",
+        "corporate-gifts"
+      ],
+      "founded": null,
+      "years_experience": 30,
+      "capacity": "500k+/month",
+      "listing_url": "https://plushsource.com/plush-manufacturers/dixin-toys",
+      "sources": [],
+      "added": "2026-10-08",
+      "updated": "2026-10-08"
+    },
+    {
+      "slug": "dreamplush",
+      "name": "DreamPlush",
+      "website": "https://www.stuffed-toy.com/",
+      "country": "china",
+      "additional_countries": [],
+      "city": "Shenzhen",
+      "location": "Shenzhen, Guangdong, China",
+      "moq": 100,
+      "moq_stated": "100–500 pcs/design",
+      "moq_band": "low",
+      "sample_time": "~15 days",
+      "production_time": "~25 days",
+      "oem": true,
+      "odm": true,
+      "services": [
+        "custom",
+        "oem",
+        "odm",
+        "sampling"
+      ],
+      "categories": [
+        "custom-plush",
+        "low-moq",
+        "oem-odm",
+        "prototype-sampling",
+        "character-plush",
+        "mascot-plush",
+        "promotional-plush",
+        "kickstarter",
+        "keychains"
+      ],
+      "products": [
+        "stuffed-animals",
+        "plush-keychains",
+        "cotton-dolls",
+        "mascot-plush"
+      ],
+      "design_inputs": [
+        "sketch",
+        "character-design",
+        "logo-mascot",
+        "photo",
+        "3d-model"
+      ],
+      "certifications": [
+        "EN71",
+        "ASTM",
+        "CE"
+      ],
+      "industries": [
+        "kickstarter",
+        "marketing-events",
+        "brands"
+      ],
+      "founded": null,
+      "years_experience": 10,
+      "capacity": "100k+/month",
+      "listing_url": "https://plushsource.com/plush-manufacturers/dreamplush",
+      "sources": [],
+      "added": "2026-10-08",
+      "updated": "2026-10-08"
+    },
+    {
+      "slug": "elalka-pracownia-rekodzie-a-agnieszka-czapla",
+      "name": "Elalka (Pracownia rękodzieła Agnieszka Czapla)",
+      "website": "https://www.elalka.pl/",
+      "country": "poland",
+      "additional_countries": [],
+      "city": "Gościeszowice",
+      "location": "Gościeszowice, Poland",
+      "moq": null,
+      "moq_stated": "",
+      "moq_band": null,
+      "sample_time": "",
+      "production_time": "",
+      "oem": false,
+      "odm": false,
+      "services": [
+        "custom"
+      ],
+      "categories": [
+        "custom-plush"
+      ],
+      "products": [
+        "stuffed-animals"
+      ],
+      "design_inputs": [
+        "sketch",
+        "photo",
+        "artwork"
+      ],
+      "certifications": [],
+      "industries": [
+        "brands",
+        "corporate-gifts"
+      ],
+      "founded": 2012,
+      "years_experience": null,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/elalka-pracownia-rekodzie-a-agnieszka-czapla",
+      "sources": [],
+      "added": "2026-10-17",
+      "updated": "2026-10-17"
+    },
+    {
+      "slug": "funenjoy-toys",
+      "name": "FunEnjoy Toys",
+      "website": "https://funenjoytoys.com/",
+      "country": "china",
+      "additional_countries": [],
+      "city": "Yiwu",
+      "location": "Yiwu, Zhejiang, China",
+      "moq": 1000,
+      "moq_stated": "Usually ~1,000 pcs/design; some simple designs 500+",
+      "moq_band": "bulk",
+      "sample_time": "~10 working days",
+      "production_time": "~35 days up to 30,000 pcs",
+      "oem": true,
+      "odm": true,
+      "services": [
+        "custom",
+        "oem",
+        "odm",
+        "sampling"
+      ],
+      "categories": [
+        "custom-plush",
+        "oem-odm",
+        "prototype-sampling",
+        "promotional-plush"
+      ],
+      "products": [
+        "other"
+      ],
+      "design_inputs": [
+        "sketch",
+        "photo",
+        "physical-sample",
+        "tech-pack"
+      ],
+      "certifications": [
+        "EN71",
+        "ASTM",
+        "CPSIA"
+      ],
+      "industries": [
+        "brands",
+        "ip-licensing",
+        "corporate-gifts",
+        "marketing-events"
+      ],
+      "founded": null,
+      "years_experience": null,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/funenjoy-toys",
+      "sources": [],
+      "added": "2026-10-08",
+      "updated": "2026-10-08"
+    },
+    {
+      "slug": "funzoo-fun-zoo-toys-india-pvt-ltd",
+      "name": "Funzoo (Fun Zoo Toys India Pvt. Ltd.)",
+      "website": "https://funzoo.in/",
+      "country": "india",
+      "additional_countries": [],
+      "city": "Near Noida International Airport",
+      "location": "Near Noida International Airport, Uttar Pradesh, India",
+      "moq": null,
+      "moq_stated": "",
+      "moq_band": null,
+      "sample_time": "",
+      "production_time": "",
+      "oem": true,
+      "odm": true,
+      "services": [
+        "custom",
+        "oem",
+        "odm"
+      ],
+      "categories": [
+        "custom-plush",
+        "oem-odm"
+      ],
+      "products": [
+        "stuffed-animals"
+      ],
+      "design_inputs": [],
+      "certifications": [
+        "ISO9001",
+        "EN71",
+        "ASTM",
+        "Sedex"
+      ],
+      "industries": [
+        "brands"
+      ],
+      "founded": null,
+      "years_experience": null,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/funzoo-fun-zoo-toys-india-pvt-ltd",
+      "sources": [],
+      "added": "2026-10-26",
+      "updated": "2026-10-26"
+    },
+    {
+      "slug": "fyplush",
+      "name": "Fyplush",
+      "website": "https://fyplushmaker.com/products/custom-mascot-plush-manufacturer/",
+      "country": "china",
+      "additional_countries": [],
+      "city": "Yancheng",
+      "location": "Yancheng, Jiangsu, China",
+      "moq": 100,
+      "moq_stated": "100 pcs/design",
+      "moq_band": "low",
+      "sample_time": "7–10 working days",
+      "production_time": "60 days after sample approval + deposit",
+      "oem": true,
+      "odm": true,
+      "services": [
+        "custom",
+        "oem",
+        "odm",
+        "sampling"
+      ],
+      "categories": [
+        "custom-plush",
+        "low-moq",
+        "oem-odm",
+        "prototype-sampling",
+        "mascot-plush",
+        "promotional-plush",
+        "keychains"
+      ],
+      "products": [
+        "mascot-plush",
+        "plush-keychains",
+        "other"
+      ],
+      "design_inputs": [
+        "artwork",
+        "logo-mascot",
+        "sketch",
+        "photo",
+        "3d-model",
+        "physical-sample"
+      ],
+      "certifications": [
+        "CPC",
+        "ASTM",
+        "EN71"
+      ],
+      "industries": [
+        "education",
+        "sports",
+        "corporate-gifts",
+        "marketing-events",
+        "museums"
+      ],
+      "founded": 2013,
+      "years_experience": null,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/fyplush",
+      "sources": [],
+      "added": "2026-10-08",
+      "updated": "2026-10-08"
+    },
+    {
+      "slug": "gonzo-s-c-zphu",
+      "name": "GONZO s.c. (ZPHU)",
+      "website": "https://gonzo.com.pl/",
+      "country": "poland",
+      "additional_countries": [],
+      "city": "Łódź",
+      "location": "Łódź, Poland",
+      "moq": null,
+      "moq_stated": "",
+      "moq_band": null,
+      "sample_time": "",
+      "production_time": "",
+      "oem": false,
+      "odm": false,
+      "services": [
+        "custom"
+      ],
+      "categories": [
+        "custom-plush",
+        "mascot-plush",
+        "promotional-plush"
+      ],
+      "products": [
+        "stuffed-animals",
+        "mascot-plush",
+        "promotional-plush"
+      ],
+      "design_inputs": [
+        "artwork",
+        "sketch",
+        "photo",
+        "logo-mascot"
+      ],
+      "certifications": [],
+      "industries": [
+        "brands",
+        "marketing-events"
+      ],
+      "founded": 1988,
+      "years_experience": null,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/gonzo-s-c-zphu",
+      "sources": [],
+      "added": "2026-10-17",
+      "updated": "2026-10-17"
+    },
+    {
+      "slug": "gs-craft-co-ltd",
+      "name": "GS Craft Co., Ltd.",
+      "website": "https://gscraft.co.jp/",
+      "country": "japan",
+      "additional_countries": [],
+      "city": "Yamashina-ku",
+      "location": "Yamashina-ku, Kyoto, Japan",
+      "moq": null,
+      "moq_stated": "",
+      "moq_band": null,
+      "sample_time": "",
+      "production_time": "",
+      "oem": true,
+      "odm": false,
+      "services": [
+        "custom",
+        "oem"
+      ],
+      "categories": [
+        "custom-plush",
+        "oem-odm",
+        "promotional-plush"
+      ],
+      "products": [
+        "promotional-plush"
+      ],
+      "design_inputs": [],
+      "certifications": [],
+      "industries": [],
+      "founded": 2009,
+      "years_experience": null,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/gs-craft-co-ltd",
+      "sources": [],
+      "added": "2026-10-26",
+      "updated": "2026-10-26"
+    },
+    {
+      "slug": "headwind-group",
+      "name": "Headwind Group",
+      "website": "https://headwind-group.com/plush",
+      "country": "vietnam",
+      "additional_countries": [
+        "china"
+      ],
+      "city": null,
+      "location": "Vietnam + China",
+      "moq": 500,
+      "moq_stated": "500 pcs/design",
+      "moq_band": "standard",
+      "sample_time": "10–14 days",
+      "production_time": "45–60 days",
+      "oem": true,
+      "odm": true,
+      "services": [
+        "custom",
+        "oem",
+        "odm",
+        "sampling"
+      ],
+      "categories": [
+        "custom-plush",
+        "oem-odm",
+        "prototype-sampling",
+        "mascot-plush",
+        "kickstarter",
+        "keychains"
+      ],
+      "products": [
+        "mascot-plush",
+        "plush-keychains",
+        "pillows"
+      ],
+      "design_inputs": [
+        "sketch",
+        "physical-sample"
+      ],
+      "certifications": [
+        "Sedex"
+      ],
+      "industries": [
+        "brands",
+        "kickstarter"
+      ],
+      "founded": null,
+      "years_experience": 20,
+      "capacity": "300k/month Vietnam",
+      "listing_url": "https://plushsource.com/plush-manufacturers/headwind-group",
+      "sources": [],
+      "added": "2026-10-08",
+      "updated": "2026-10-08"
+    },
+    {
+      "slug": "jianchuang",
+      "name": "JianChuang",
+      "website": "https://en.gdjianchuang.com/Vietnam.html",
+      "country": "vietnam",
+      "additional_countries": [],
+      "city": null,
+      "location": "Vietnam",
+      "moq": 300,
+      "moq_stated": "300 pcs/design",
+      "moq_band": "standard",
+      "sample_time": "",
+      "production_time": "",
+      "oem": true,
+      "odm": false,
+      "services": [
+        "custom",
+        "oem"
+      ],
+      "categories": [
+        "custom-plush",
+        "oem-odm",
+        "kickstarter"
+      ],
+      "products": [],
+      "design_inputs": [
+        "sketch",
+        "written-brief",
+        "artwork"
+      ],
+      "certifications": [
+        "ISO9001",
+        "CE",
+        "EN71",
+        "ASTM"
+      ],
+      "industries": [
+        "kickstarter",
+        "ip-licensing",
+        "corporate-gifts",
+        "brands"
+      ],
+      "founded": null,
+      "years_experience": 8,
+      "capacity": "1,600+ units/day",
+      "listing_url": "https://plushsource.com/plush-manufacturers/jianchuang",
+      "sources": [],
+      "added": "2026-10-08",
+      "updated": "2026-10-08"
+    },
+    {
+      "slug": "joyus-toyus-custom-plush-toys",
+      "name": "Joyus Toyus Custom Plush Toys",
+      "website": "https://joyustoyus.com/",
+      "country": "usa",
+      "additional_countries": [],
+      "city": "Myrtle Beach",
+      "location": "Myrtle Beach, South Carolina, USA",
+      "moq": 500,
+      "moq_stated": "500 pieces",
+      "moq_band": "standard",
+      "sample_time": "",
+      "production_time": "",
+      "oem": true,
+      "odm": false,
+      "services": [
+        "custom",
+        "oem"
+      ],
+      "categories": [
+        "custom-plush",
+        "oem-odm"
+      ],
+      "products": [
+        "stuffed-animals"
+      ],
+      "design_inputs": [],
+      "certifications": [
+        "CPSIA"
+      ],
+      "industries": [
+        "brands"
+      ],
+      "founded": null,
+      "years_experience": null,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/joyus-toyus-custom-plush-toys",
+      "sources": [],
+      "added": "2026-10-26",
+      "updated": "2026-10-26"
+    },
+    {
+      "slug": "kexiong-toy",
+      "name": "Kexiong Toy",
+      "website": "https://www.plushtoyscn.com/",
+      "country": "china",
+      "additional_countries": [],
+      "city": "Yangzhou",
+      "location": "Yangzhou, Jiangsu, China",
+      "moq": null,
+      "moq_stated": "",
+      "moq_band": null,
+      "sample_time": "",
+      "production_time": "",
+      "oem": true,
+      "odm": true,
+      "services": [
+        "custom",
+        "oem",
+        "odm"
+      ],
+      "categories": [
+        "custom-plush",
+        "oem-odm"
+      ],
+      "products": [
+        "stuffed-animals"
+      ],
+      "design_inputs": [
+        "photo",
+        "artwork",
+        "physical-sample",
+        "sketch"
+      ],
+      "certifications": [],
+      "industries": [
+        "brands",
+        "corporate-gifts"
+      ],
+      "founded": null,
+      "years_experience": 15,
+      "capacity": "150+ R&D/production team; ~8,000 m²",
+      "listing_url": "https://plushsource.com/plush-manufacturers/kexiong-toy",
+      "sources": [],
+      "added": "2026-10-08",
+      "updated": "2026-10-08"
+    },
+    {
+      "slug": "knuffelsmaken-nl-imagic-b-v",
+      "name": "Knuffelsmaken.nl (Imagic B.V.)",
+      "website": "https://www.knuffelsmaken.nl/",
+      "country": "netherlands",
+      "additional_countries": [],
+      "city": "Geleen",
+      "location": "Geleen, Netherlands",
+      "moq": 1000,
+      "moq_stated": "1,000 pcs",
+      "moq_band": "bulk",
+      "sample_time": "",
+      "production_time": "",
+      "oem": false,
+      "odm": false,
+      "services": [
+        "custom"
+      ],
+      "categories": [
+        "custom-plush",
+        "promotional-plush",
+        "keychains"
+      ],
+      "products": [
+        "stuffed-animals",
+        "plush-keychains"
+      ],
+      "design_inputs": [
+        "artwork"
+      ],
+      "certifications": [],
+      "industries": [
+        "brands",
+        "marketing-events"
+      ],
+      "founded": null,
+      "years_experience": 20,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/knuffelsmaken-nl-imagic-b-v",
+      "sources": [],
+      "added": "2026-10-17",
+      "updated": "2026-10-17"
+    },
+    {
+      "slug": "koppen-creative",
+      "name": "Koppen Creative",
+      "website": "https://koppencreative.com/",
+      "country": "netherlands",
+      "additional_countries": [],
+      "city": "Geldrop",
+      "location": "Geldrop, Netherlands",
+      "moq": 500,
+      "moq_stated": "500 pcs",
+      "moq_band": "standard",
+      "sample_time": "",
+      "production_time": "",
+      "oem": false,
+      "odm": false,
+      "services": [
+        "custom"
+      ],
+      "categories": [
+        "custom-plush",
+        "character-plush",
+        "mascot-plush",
+        "promotional-plush"
+      ],
+      "products": [
+        "stuffed-animals",
+        "mascot-plush"
+      ],
+      "design_inputs": [
+        "artwork",
+        "character-design"
+      ],
+      "certifications": [],
+      "industries": [
+        "brands",
+        "marketing-events"
+      ],
+      "founded": null,
+      "years_experience": 40,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/koppen-creative",
+      "sources": [],
+      "added": "2026-10-17",
+      "updated": "2026-10-17"
+    },
+    {
+      "slug": "leeline-toys",
+      "name": "Leeline Toys",
+      "website": "https://www.leelinetoys.com/custom-plush-manufacturer/plush-toy-manufacturer-us/",
+      "country": "china",
+      "additional_countries": [
+        "usa"
+      ],
+      "city": "Suizhou",
+      "location": "Suizhou, Hubei, China (US-facing; partners in 42 states)",
+      "moq": 300,
+      "moq_stated": "300 units; no minimum on reorders",
+      "moq_band": "standard",
+      "sample_time": "48 hrs average",
+      "production_time": "",
+      "oem": true,
+      "odm": true,
+      "services": [
+        "custom",
+        "oem",
+        "odm",
+        "sampling"
+      ],
+      "categories": [
+        "custom-plush",
+        "oem-odm",
+        "prototype-sampling",
+        "character-plush",
+        "promotional-plush",
+        "kickstarter"
+      ],
+      "products": [],
+      "design_inputs": [
+        "character-design",
+        "artwork"
+      ],
+      "certifications": [
+        "ASTM",
+        "Prop65",
+        "CPSIA",
+        "ISO9001"
+      ],
+      "industries": [
+        "brands",
+        "kickstarter",
+        "marketing-events",
+        "education"
+      ],
+      "founded": null,
+      "years_experience": null,
+      "capacity": "1,200+ US B2B clients; 42 states with active partners",
+      "listing_url": "https://plushsource.com/plush-manufacturers/leeline-toys",
+      "sources": [],
+      "added": "2026-10-08",
+      "updated": "2026-10-08"
+    },
+    {
+      "slug": "ma-mascotte",
+      "name": "Ma Mascotte",
+      "website": "https://ma-mascotte.com/",
+      "country": "france",
+      "additional_countries": [],
+      "city": "Morancez",
+      "location": "Morancez, France",
+      "moq": 500,
+      "moq_stated": "500 pcs",
+      "moq_band": "standard",
+      "sample_time": "",
+      "production_time": "4–12 weeks (custom plush)",
+      "oem": false,
+      "odm": false,
+      "services": [
+        "custom"
+      ],
+      "categories": [
+        "custom-plush",
+        "mascot-plush",
+        "promotional-plush",
+        "keychains"
+      ],
+      "products": [
+        "stuffed-animals",
+        "plush-keychains",
+        "mascot-plush",
+        "promotional-plush"
+      ],
+      "design_inputs": [
+        "artwork",
+        "sketch",
+        "photo",
+        "logo-mascot"
+      ],
+      "certifications": [
+        "CE",
+        "EN71"
+      ],
+      "industries": [
+        "brands",
+        "corporate-gifts",
+        "sports"
+      ],
+      "founded": 2011,
+      "years_experience": null,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/ma-mascotte",
+      "sources": [],
+      "added": "2026-10-17",
+      "updated": "2026-10-17"
+    },
+    {
+      "slug": "maris-plush",
+      "name": "Maris Plush",
+      "website": "https://marisplush.com/about",
+      "country": "china",
+      "additional_countries": [],
+      "city": "Yangzhou",
+      "location": "Yangzhou, China",
+      "moq": null,
+      "moq_stated": "",
+      "moq_band": null,
+      "sample_time": "",
+      "production_time": "",
+      "oem": true,
+      "odm": true,
+      "services": [
+        "custom",
+        "oem",
+        "odm"
+      ],
+      "categories": [
+        "custom-plush",
+        "oem-odm",
+        "promotional-plush"
+      ],
+      "products": [
+        "other",
+        "promotional-plush"
+      ],
+      "design_inputs": [
+        "artwork"
+      ],
+      "certifications": [],
+      "industries": [
+        "brands",
+        "ip-licensing",
+        "corporate-gifts"
+      ],
+      "founded": null,
+      "years_experience": 17,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/maris-plush",
+      "sources": [],
+      "added": "2026-10-08",
+      "updated": "2026-10-08"
+    },
+    {
+      "slug": "maua-gang",
+      "name": "Maua Gang",
+      "website": "https://www.mauagang.com/custom-plush-toys/",
+      "country": "uk",
+      "additional_countries": [
+        "china"
+      ],
+      "city": null,
+      "location": "UK-managed / China manufacturing partners",
+      "moq": 50,
+      "moq_stated": "50+ pieces",
+      "moq_band": "micro",
+      "sample_time": "3–5 weeks (rush 2–3)",
+      "production_time": "4–6 weeks (rush 3–4)",
+      "oem": false,
+      "odm": false,
+      "services": [
+        "custom",
+        "sampling"
+      ],
+      "categories": [
+        "custom-plush",
+        "low-moq",
+        "prototype-sampling",
+        "kickstarter"
+      ],
+      "products": [
+        "stuffed-animals"
+      ],
+      "design_inputs": [
+        "artwork"
+      ],
+      "certifications": [],
+      "industries": [
+        "brands",
+        "corporate-gifts",
+        "kickstarter"
+      ],
+      "founded": null,
+      "years_experience": null,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/maua-gang",
+      "sources": [],
+      "added": "2026-10-08",
+      "updated": "2026-10-08"
+    },
+    {
+      "slug": "mavo-toys",
+      "name": "Mavo Toys",
+      "website": "https://mavotoys.com/",
+      "country": "china",
+      "additional_countries": [],
+      "city": "Dongguan",
+      "location": "Dongguan, China",
+      "moq": 500,
+      "moq_stated": "500 pcs/design",
+      "moq_band": "standard",
+      "sample_time": "10–15 business days",
+      "production_time": "30–45 days",
+      "oem": true,
+      "odm": true,
+      "services": [
+        "custom",
+        "oem",
+        "odm",
+        "sampling"
+      ],
+      "categories": [
+        "custom-plush",
+        "oem-odm",
+        "prototype-sampling",
+        "character-plush"
+      ],
+      "products": [
+        "character-plush",
+        "stuffed-animals"
+      ],
+      "design_inputs": [
+        "artwork"
+      ],
+      "certifications": [
+        "ISO9001",
+        "BSCI",
+        "Sedex",
+        "FAMA",
+        "CE",
+        "EN71",
+        "ASTM"
+      ],
+      "industries": [
+        "brands",
+        "ip-licensing"
+      ],
+      "founded": null,
+      "years_experience": 15,
+      "capacity": "10 production lines",
+      "listing_url": "https://plushsource.com/plush-manufacturers/mavo-toys",
+      "sources": [],
+      "added": "2026-10-08",
+      "updated": "2026-10-08"
+    },
+    {
+      "slug": "medicopress-co-ltd",
+      "name": "MedicoPress Co., Ltd.",
+      "website": "https://medicopress.com/",
+      "country": "japan",
+      "additional_countries": [],
+      "city": "Katsushika-ku",
+      "location": "Katsushika-ku, Tokyo, Japan",
+      "moq": null,
+      "moq_stated": "",
+      "moq_band": null,
+      "sample_time": "",
+      "production_time": "",
+      "oem": true,
+      "odm": false,
+      "services": [
+        "custom",
+        "oem"
+      ],
+      "categories": [
+        "custom-plush",
+        "oem-odm"
+      ],
+      "products": [
+        "stuffed-animals"
+      ],
+      "design_inputs": [],
+      "certifications": [],
+      "industries": [
+        "brands",
+        "sports"
+      ],
+      "founded": 2002,
+      "years_experience": null,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/medicopress-co-ltd",
+      "sources": [],
+      "added": "2026-10-26",
+      "updated": "2026-10-26"
+    },
+    {
+      "slug": "mingsenxing-toy-gift-msx-toys",
+      "name": "Mingsenxing Toy Gift (MSX Toys)",
+      "website": "https://www.msxtoys.com/",
+      "country": "china",
+      "additional_countries": [],
+      "city": "Shenzhen",
+      "location": "Shenzhen, China",
+      "moq": 300,
+      "moq_stated": "300 pcs",
+      "moq_band": "standard",
+      "sample_time": "10 business days",
+      "production_time": "",
+      "oem": true,
+      "odm": true,
+      "services": [
+        "custom",
+        "oem",
+        "odm",
+        "sampling"
+      ],
+      "categories": [
+        "custom-plush",
+        "oem-odm",
+        "prototype-sampling",
+        "promotional-plush"
+      ],
+      "products": [
+        "stuffed-animals",
+        "plush-dolls",
+        "baby-plush",
+        "promotional-plush",
+        "plush-houseware",
+        "art-toys"
+      ],
+      "design_inputs": [
+        "artwork"
+      ],
+      "certifications": [
+        "BSCI",
+        "ISO9001",
+        "ICTI",
+        "ASTM",
+        "EN71"
+      ],
+      "industries": [
+        "marketing-events",
+        "corporate-gifts",
+        "brands"
+      ],
+      "founded": null,
+      "years_experience": 19,
+      "capacity": "200,000+",
+      "listing_url": "https://plushsource.com/plush-manufacturers/mingsenxing-toy-gift-msx-toys",
+      "sources": [],
+      "added": "2026-10-08",
+      "updated": "2026-10-08"
+    },
+    {
+      "slug": "mr-crafty-bear-too-many-bears",
+      "name": "Mr. Crafty Bear (Too Many Bears)",
+      "website": "https://mrcraftybear.com/",
+      "country": "spain",
+      "additional_countries": [],
+      "city": "Sant Joan Despí (Barcelona)",
+      "location": "Sant Joan Despí (Barcelona), Spain",
+      "moq": 200,
+      "moq_stated": "200 pcs",
+      "moq_band": "low",
+      "sample_time": "",
+      "production_time": "about 90 days",
+      "oem": false,
+      "odm": false,
+      "services": [
+        "custom"
+      ],
+      "categories": [
+        "custom-plush",
+        "low-moq",
+        "promotional-plush",
+        "keychains"
+      ],
+      "products": [
+        "stuffed-animals",
+        "plush-keychains",
+        "promotional-plush"
+      ],
+      "design_inputs": [
+        "artwork",
+        "3d-model"
+      ],
+      "certifications": [
+        "CE",
+        "EN71"
+      ],
+      "industries": [
+        "brands",
+        "marketing-events",
+        "sports",
+        "education"
+      ],
+      "founded": null,
+      "years_experience": null,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/mr-crafty-bear-too-many-bears",
+      "sources": [],
+      "added": "2026-10-17",
+      "updated": "2026-10-17"
+    },
+    {
+      "slug": "nakaya-co-ltd",
+      "name": "Nakaya Co., Ltd.",
+      "website": "http://nakayath.com/",
+      "country": "japan",
+      "additional_countries": [],
+      "city": "Koto-ku",
+      "location": "Koto-ku, Tokyo, Japan",
+      "moq": null,
+      "moq_stated": "",
+      "moq_band": null,
+      "sample_time": "",
+      "production_time": "",
+      "oem": true,
+      "odm": false,
+      "services": [
+        "custom",
+        "oem"
+      ],
+      "categories": [
+        "custom-plush",
+        "oem-odm"
+      ],
+      "products": [
+        "stuffed-animals"
+      ],
+      "design_inputs": [
+        "sketch"
+      ],
+      "certifications": [],
+      "industries": [
+        "brands"
+      ],
+      "founded": null,
+      "years_experience": null,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/nakaya-co-ltd",
+      "sources": [],
+      "added": "2026-10-26",
+      "updated": "2026-10-26"
+    },
+    {
+      "slug": "peluche-creation-marketing-creation-sas",
+      "name": "Peluche Création (Marketing Création SAS)",
+      "website": "https://peluchecreation.com/",
+      "country": "france",
+      "additional_countries": [],
+      "city": "Fuveau",
+      "location": "Fuveau, France",
+      "moq": 500,
+      "moq_stated": "500 pcs (custom plush)",
+      "moq_band": "standard",
+      "sample_time": "20 days (prototype, delivery included)",
+      "production_time": "",
+      "oem": false,
+      "odm": false,
+      "services": [
+        "custom",
+        "sampling"
+      ],
+      "categories": [
+        "custom-plush",
+        "prototype-sampling",
+        "mascot-plush",
+        "promotional-plush",
+        "keychains"
+      ],
+      "products": [
+        "stuffed-animals",
+        "plush-keychains",
+        "promotional-plush"
+      ],
+      "design_inputs": [
+        "artwork",
+        "sketch",
+        "logo-mascot"
+      ],
+      "certifications": [
+        "EN71"
+      ],
+      "industries": [
+        "brands"
+      ],
+      "founded": 2011,
+      "years_experience": null,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/peluche-creation-marketing-creation-sas",
+      "sources": [],
+      "added": "2026-10-17",
+      "updated": "2026-10-17"
+    },
+    {
+      "slug": "peluche-su-misura-mascot-shop",
+      "name": "Peluche su misura (Mascot Shop)",
+      "website": "https://www.peluchesumisura.it/",
+      "country": "italy",
+      "additional_countries": [],
+      "city": "Corridonia (MC)",
+      "location": "Corridonia (MC), Italy",
+      "moq": 500,
+      "moq_stated": "500 pcs",
+      "moq_band": "standard",
+      "sample_time": "",
+      "production_time": "60–90 working days",
+      "oem": false,
+      "odm": false,
+      "services": [
+        "custom"
+      ],
+      "categories": [
+        "custom-plush",
+        "mascot-plush",
+        "promotional-plush"
+      ],
+      "products": [
+        "stuffed-animals",
+        "mascot-plush"
+      ],
+      "design_inputs": [
+        "photo",
+        "sketch",
+        "written-brief"
+      ],
+      "certifications": [
+        "CE",
+        "EN71"
+      ],
+      "industries": [
+        "brands",
+        "marketing-events"
+      ],
+      "founded": null,
+      "years_experience": 10,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/peluche-su-misura-mascot-shop",
+      "sources": [],
+      "added": "2026-10-17",
+      "updated": "2026-10-17"
+    },
+    {
+      "slug": "peluches-sur-mesure-com-sarl-fid-developpement",
+      "name": "Peluches-sur-mesure.com (SARL FID'Développement)",
+      "website": "https://www.peluches-sur-mesure.com/",
+      "country": "france",
+      "additional_countries": [],
+      "city": "Challans",
+      "location": "Challans, France",
+      "moq": 500,
+      "moq_stated": "500 pcs",
+      "moq_band": "standard",
+      "sample_time": "",
+      "production_time": "4–10 weeks (mass production)",
+      "oem": false,
+      "odm": false,
+      "services": [
+        "custom"
+      ],
+      "categories": [
+        "custom-plush",
+        "mascot-plush",
+        "keychains"
+      ],
+      "products": [
+        "stuffed-animals",
+        "plush-keychains",
+        "mascot-plush",
+        "baby-plush"
+      ],
+      "design_inputs": [
+        "artwork",
+        "sketch",
+        "logo-mascot"
+      ],
+      "certifications": [
+        "EN71",
+        "CE"
+      ],
+      "industries": [
+        "brands",
+        "education",
+        "sports"
+      ],
+      "founded": 2013,
+      "years_experience": null,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/peluches-sur-mesure-com-sarl-fid-developpement",
+      "sources": [],
+      "added": "2026-10-17",
+      "updated": "2026-10-17"
+    },
+    {
+      "slug": "pluschwelt-openmindz-gmbh",
+      "name": "plüschwelt (openmindz GmbH)",
+      "website": "https://www.plueschwelt.com/",
+      "country": "germany",
+      "additional_countries": [],
+      "city": "Heidelberg",
+      "location": "Heidelberg, Germany",
+      "moq": 500,
+      "moq_stated": "500 pcs (mascot costumes from 1 pc)",
+      "moq_band": "standard",
+      "sample_time": "",
+      "production_time": "",
+      "oem": false,
+      "odm": false,
+      "services": [
+        "custom"
+      ],
+      "categories": [
+        "custom-plush",
+        "mascot-plush",
+        "keychains"
+      ],
+      "products": [
+        "stuffed-animals",
+        "mascot-plush",
+        "plush-keychains",
+        "baby-plush"
+      ],
+      "design_inputs": [
+        "artwork"
+      ],
+      "certifications": [
+        "EN71",
+        "CE"
+      ],
+      "industries": [
+        "brands"
+      ],
+      "founded": 2006,
+      "years_experience": null,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/pluschwelt-openmindz-gmbh",
+      "sources": [],
+      "added": "2026-10-17",
+      "updated": "2026-10-17"
+    },
+    {
+      "slug": "plush-factory",
+      "name": "Plush Factory",
+      "website": "https://www.plush-factory.com/",
+      "country": "china",
+      "additional_countries": [],
+      "city": "Shenzhen",
+      "location": "Shenzhen, China",
+      "moq": 50,
+      "moq_stated": "50 pcs/design",
+      "moq_band": "micro",
+      "sample_time": "7 days",
+      "production_time": "30–45 days",
+      "oem": true,
+      "odm": true,
+      "services": [
+        "custom",
+        "oem",
+        "odm",
+        "sampling"
+      ],
+      "categories": [
+        "custom-plush",
+        "low-moq",
+        "oem-odm",
+        "prototype-sampling",
+        "character-plush",
+        "mascot-plush",
+        "promotional-plush",
+        "kickstarter",
+        "keychains"
+      ],
+      "products": [
+        "stuffed-animals",
+        "mascot-plush",
+        "character-plush",
+        "plush-keychains",
+        "pillows",
+        "other"
+      ],
+      "design_inputs": [
+        "artwork"
+      ],
+      "certifications": [
+        "EN71",
+        "ASTM",
+        "CE"
+      ],
+      "industries": [
+        "brands",
+        "marketing-events",
+        "kickstarter"
+      ],
+      "founded": null,
+      "years_experience": 15,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/plush-factory",
+      "sources": [],
+      "added": "2026-10-08",
+      "updated": "2026-10-08"
+    },
+    {
+      "slug": "plushcraft",
+      "name": "PlushCraft",
+      "website": "https://www.plush-manufacturer.com/",
+      "country": "china",
+      "additional_countries": [],
+      "city": null,
+      "location": "China",
+      "moq": 100,
+      "moq_stated": "Typically from 100 pcs",
+      "moq_band": "low",
+      "sample_time": "",
+      "production_time": "45 days typical mass production",
+      "oem": true,
+      "odm": true,
+      "services": [
+        "custom",
+        "oem",
+        "odm"
+      ],
+      "categories": [
+        "custom-plush",
+        "low-moq",
+        "oem-odm",
+        "character-plush",
+        "promotional-plush"
+      ],
+      "products": [
+        "character-plush",
+        "corporate-gifts",
+        "promotional-plush",
+        "other"
+      ],
+      "design_inputs": [
+        "character-design",
+        "sketch",
+        "3d-model",
+        "physical-sample"
+      ],
+      "certifications": [],
+      "industries": [
+        "corporate-gifts",
+        "ip-licensing",
+        "marketing-events",
+        "brands"
+      ],
+      "founded": null,
+      "years_experience": 10,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/plushcraft",
+      "sources": [],
+      "added": "2026-10-08",
+      "updated": "2026-10-08"
+    },
+    {
+      "slug": "promo-bears-promo-bears-b-v",
+      "name": "Promo Bears (Promo Bears B.V.)",
+      "website": "https://www.promobears.de/",
+      "country": "netherlands",
+      "additional_countries": [],
+      "city": "Groningen",
+      "location": "Groningen, Netherlands",
+      "moq": 500,
+      "moq_stated": "500 pcs/design",
+      "moq_band": "standard",
+      "sample_time": "5–8 weeks (prototype)",
+      "production_time": "",
+      "oem": false,
+      "odm": false,
+      "services": [
+        "custom",
+        "sampling"
+      ],
+      "categories": [
+        "custom-plush",
+        "prototype-sampling",
+        "mascot-plush",
+        "promotional-plush",
+        "keychains"
+      ],
+      "products": [
+        "stuffed-animals",
+        "plush-keychains",
+        "promotional-plush"
+      ],
+      "design_inputs": [
+        "artwork",
+        "logo-mascot"
+      ],
+      "certifications": [],
+      "industries": [
+        "education",
+        "sports",
+        "marketing-events"
+      ],
+      "founded": 2006,
+      "years_experience": null,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/promo-bears-promo-bears-b-v",
+      "sources": [],
+      "added": "2026-10-17",
+      "updated": "2026-10-17"
+    },
+    {
+      "slug": "sgplush-fot088-holdings",
+      "name": "SgPlush / FOT088 Holdings",
+      "website": "https://www.sgplush.com/",
+      "country": "singapore",
+      "additional_countries": [],
+      "city": null,
+      "location": "Singapore",
+      "moq": null,
+      "moq_stated": "",
+      "moq_band": null,
+      "sample_time": "Sample proofing",
+      "production_time": "Production 3 weeks",
+      "oem": false,
+      "odm": false,
+      "services": [
+        "custom",
+        "sampling"
+      ],
+      "categories": [
+        "custom-plush",
+        "prototype-sampling",
+        "mascot-plush",
+        "promotional-plush"
+      ],
+      "products": [
+        "corporate-gifts",
+        "mascot-plush",
+        "promotional-plush"
+      ],
+      "design_inputs": [
+        "photo",
+        "written-brief",
+        "artwork"
+      ],
+      "certifications": [],
+      "industries": [
+        "education",
+        "corporate-gifts"
+      ],
+      "founded": 1973,
+      "years_experience": null,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/sgplush-fot088-holdings",
+      "sources": [],
+      "added": "2026-10-08",
+      "updated": "2026-10-08"
+    },
+    {
+      "slug": "the-plush-maker",
+      "name": "The Plush Maker",
+      "website": "https://theplushmaker.com/oem-odm-stuffed-animal-manufacturers",
+      "country": "china",
+      "additional_countries": [],
+      "city": "Dongguan",
+      "location": "Dongguan, China",
+      "moq": 500,
+      "moq_stated": "500 pcs",
+      "moq_band": "standard",
+      "sample_time": "7–14 days",
+      "production_time": "25–40 days",
+      "oem": true,
+      "odm": true,
+      "services": [
+        "custom",
+        "oem",
+        "odm",
+        "sampling"
+      ],
+      "categories": [
+        "custom-plush",
+        "oem-odm",
+        "prototype-sampling",
+        "mascot-plush",
+        "promotional-plush"
+      ],
+      "products": [
+        "stuffed-animals",
+        "mascot-plush"
+      ],
+      "design_inputs": [
+        "written-brief",
+        "sketch",
+        "photo"
+      ],
+      "certifications": [
+        "EN71",
+        "ASTM",
+        "CPSIA",
+        "ISO8124"
+      ],
+      "industries": [
+        "corporate-gifts",
+        "brands",
+        "sports",
+        "marketing-events"
+      ],
+      "founded": null,
+      "years_experience": 20,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/the-plush-maker",
+      "sources": [],
+      "added": "2026-10-08",
+      "updated": "2026-10-08"
+    },
+    {
+      "slug": "toy-gift-supply-tgs",
+      "name": "Toy Gift Supply (TGS)",
+      "website": "https://www.toygiftsupply.com/",
+      "country": "china",
+      "additional_countries": [],
+      "city": "Dongguan",
+      "location": "Dongguan, China",
+      "moq": 3000,
+      "moq_stated": "3,000 pcs/design",
+      "moq_band": "bulk",
+      "sample_time": "~15–20 days (mascot page)",
+      "production_time": "",
+      "oem": true,
+      "odm": true,
+      "services": [
+        "custom",
+        "oem",
+        "odm",
+        "sampling"
+      ],
+      "categories": [
+        "custom-plush",
+        "oem-odm",
+        "prototype-sampling",
+        "mascot-plush",
+        "promotional-plush"
+      ],
+      "products": [
+        "mascot-plush",
+        "other"
+      ],
+      "design_inputs": [
+        "sketch",
+        "artwork",
+        "logo-mascot"
+      ],
+      "certifications": [
+        "FAMA"
+      ],
+      "industries": [
+        "brands",
+        "sports",
+        "corporate-gifts",
+        "education",
+        "museums",
+        "marketing-events"
+      ],
+      "founded": null,
+      "years_experience": 10,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/toy-gift-supply-tgs",
+      "sources": [],
+      "added": "2026-10-08",
+      "updated": "2026-10-08"
+    },
+    {
+      "slug": "wild-planet-lda",
+      "name": "Wild Planet, Lda.",
+      "website": "https://www.wildplanet.pt/",
+      "country": "portugal",
+      "additional_countries": [],
+      "city": "Frielas",
+      "location": "Frielas, Loures, Portugal",
+      "moq": 2000,
+      "moq_stated": "2,000-3,000 units",
+      "moq_band": "bulk",
+      "sample_time": "",
+      "production_time": "",
+      "oem": false,
+      "odm": false,
+      "services": [
+        "custom"
+      ],
+      "categories": [
+        "custom-plush",
+        "promotional-plush",
+        "keychains"
+      ],
+      "products": [
+        "stuffed-animals",
+        "plush-keychains",
+        "pillows"
+      ],
+      "design_inputs": [
+        "sketch",
+        "photo"
+      ],
+      "certifications": [
+        "EN71"
+      ],
+      "industries": [
+        "corporate-gifts",
+        "marketing-events"
+      ],
+      "founded": 2008,
+      "years_experience": null,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/wild-planet-lda",
+      "sources": [],
+      "added": "2026-10-26",
+      "updated": "2026-10-26"
+    },
+    {
+      "slug": "zozo-plush",
+      "name": "ZOZO Plush",
+      "website": "https://zozoplush.com/",
+      "country": "vietnam",
+      "additional_countries": [],
+      "city": null,
+      "location": "Vietnam",
+      "moq": 500,
+      "moq_stated": "500 pcs standard B2B",
+      "moq_band": "standard",
+      "sample_time": "7–10 working days",
+      "production_time": "",
+      "oem": true,
+      "odm": true,
+      "services": [
+        "custom",
+        "oem",
+        "odm",
+        "sampling"
+      ],
+      "categories": [
+        "custom-plush",
+        "oem-odm",
+        "prototype-sampling"
+      ],
+      "products": [
+        "stuffed-animals"
+      ],
+      "design_inputs": [
+        "artwork"
+      ],
+      "certifications": [
+        "BSCI",
+        "ICTI",
+        "ISO9001",
+        "CE",
+        "EN71"
+      ],
+      "industries": [
+        "brands"
+      ],
+      "founded": null,
+      "years_experience": 20,
+      "capacity": "",
+      "listing_url": "https://plushsource.com/plush-manufacturers/zozo-plush",
+      "sources": [],
+      "added": "2026-10-08",
+      "updated": "2026-10-08"
+    }
+  ]
+}

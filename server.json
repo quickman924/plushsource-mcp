@@ -1,0 +1,23 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.quickman924/plushsource-mcp",
+  "title": "PlushSource",
+  "description": "Search, filter and compare verified custom plush manufacturers from the PlushSource directory.",
+  "websiteUrl": "https://plushsource.com",
+  "repository": {
+    "url": "https://github.com/quickman924/plushsource-mcp",
+    "source": "github"
+  },
+  "version": "0.1.0",
+  "packages": [
+    {
+      "registryType": "npm",
+      "registryBaseUrl": "https://registry.npmjs.org",
+      "identifier": "plushsource-mcp",
+      "version": "0.1.0",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
