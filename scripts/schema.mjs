@@ -298,11 +298,11 @@ export function buildTable(dataset) {
   );
   out.push("");
   out.push(
-    `${dataset.count} custom plush manufacturers, grouped by country. Search, filter and compare them on **[PlushSource](${VOCAB.site.url})**, where each listing has a written profile and its verification date.`,
+    `${dataset.count} custom plush manufacturers, grouped by country. Search, filter and compare them on **[PlushSource](${VOCAB.site.url})**, where each listing has a written profile and the date its facts were last checked.`,
   );
   out.push("");
   out.push(
-    `Facts only, taken from each manufacturer's own public pages. Empty cells mean the manufacturer does not publish that fact. A listing is not an endorsement. Last updated ${dataset.last_updated}. Data licence: [CC BY 4.0](data/LICENSE), attribution to [PlushSource](${VOCAB.site.url}).`,
+    `Facts only, recorded as each manufacturer states them on its own public pages. Empty cells mean the manufacturer does not publish that fact. A listing is not an endorsement or a certification, and PlushSource does not audit manufacturers. Last updated ${dataset.last_updated}. Data licence: [CC BY 4.0](data/LICENSE), attribution to [PlushSource](${VOCAB.site.url}).`,
   );
   out.push("");
   out.push("Want to add or correct a manufacturer? See [CONTRIBUTING.md](CONTRIBUTING.md).");

@@ -73,9 +73,11 @@ Manufacturers can ask for their row to be corrected or removed at any time throu
 
 ## No endorsement, no paid ranking
 
-A listing is not an endorsement, a ranking or a quality guarantee. Being listed is free, and
-inclusion depends only on the listing criteria. If sponsored placement is ever offered, it will be
-clearly labeled as sponsored, and it will not change the data in this repository.
+A listing is not an endorsement, a certification, a ranking or a quality guarantee. PlushSource
+does not independently audit or verify manufacturers; facts are recorded as the manufacturer
+states them. Being listed is free, and inclusion depends only on the listing criteria. If
+sponsored placement is ever offered, it will be clearly labeled as sponsored, and it will not
+change the data in this repository.
 
 ## Licensing of contributions
 

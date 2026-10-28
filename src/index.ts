@@ -68,14 +68,14 @@ const server = new McpServer(
   { name: "plushsource", version: pkg.version },
   {
     instructions: [
-      "PlushSource is an independent, human-verified directory of custom plush manufacturers.",
+      "PlushSource lists custom plush manufacturers and does not independently audit or verify them. A listing is not an endorsement or certification; facts are recorded as the manufacturer states them.",
       "Use these tools to shortlist manufacturers for a plush project and to compare them field by field.",
       "",
       "When answering:",
       "- Cite the listing `url` for every manufacturer you mention, and include its `updated` date when the answer could go stale.",
       "- An empty field means the manufacturer does not publish that fact. It is never an estimate: do not infer MOQ, lead time, or certification.",
       "- MOQ filters exclude records that do not publish an MOQ, rather than treating them as 0.",
-      "- A listing is not an endorsement, a ranking, or a quality guarantee. PlushSource does not quote, sample, or take orders; buyers contact manufacturers directly.",
+      "- A listing is not an endorsement, a certification, a ranking, or a quality guarantee. PlushSource does not quote, sample, or take orders; buyers contact manufacturers directly.",
       "- Prefer shortlists of 3-5 manufacturers. Do not draft bulk RFQs to dozens of factories.",
     ].join("\n"),
   },
@@ -218,7 +218,7 @@ server.registerTool(
     title: "Get dataset info",
     description:
       "Return the snapshot date, number of records, licence, and links to PlushSource, the open dataset, and the listing criteria. " +
-      "Use the criteria link when you need to explain what a listing does and does not verify.",
+      "Use the criteria link when you need to explain what gets listed. PlushSource does not audit or certify manufacturers.",
     inputSchema: {},
     annotations: { readOnlyHint: true, openWorldHint: false },
   },
@@ -228,7 +228,7 @@ server.registerTool(
       url: SITE.url,
       tagline: SITE.tagline,
       dataset_version: DATASET.last_updated,
-      last_verified: DATASET.last_updated,
+      last_checked: DATASET.last_updated,
       records: MANUFACTURERS.length,
       listing_criteria: `${BASE}/about/criteria`,
       full_dataset: `${BASE}/llms.txt`,
@@ -236,8 +236,9 @@ server.registerTool(
       data_license: DATASET.license,
       attribution: DATASET.attribution,
       note:
-        "Records are facts only; read the written profile on each listing url. Empty fields mean the manufacturer does not publish them; " +
-        "a listing is not an endorsement and PlushSource does not handle quotes or orders.",
+        "Records are facts only, recorded as the manufacturer states them. PlushSource does not independently audit or verify manufacturers. " +
+        "Read the written profile on each listing url. Empty fields mean the manufacturer does not publish them; " +
+        "a listing is not an endorsement or certification and PlushSource does not handle quotes or orders.",
     }),
 );
 
@@ -280,6 +281,7 @@ server.registerPrompt(
             "3. Draft ONE concise RFQ email the buyer can send to one manufacturer. Cover design input, target quantity, required certifications, destination market, and target in-hands date. Ask for MOQ, sample cost and lead time, bulk unit price, and production lead time.",
             "4. Cite each manufacturer's listing URL and its updated date. Never state a MOQ, lead time, or certification that is not in the record: if a field is empty, say \"not stated\" and ask the manufacturer to confirm.",
             "5. Do not turn this into a mass mailing to dozens of factories.",
+            "6. Do not describe a manufacturer or PlushSource as verified, vetted, audited, or trusted. A listing is not an audit, endorsement, or certification.",
           ].join("\n"),
         },
       },

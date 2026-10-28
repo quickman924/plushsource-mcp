@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.quickman924/plushsource-mcp",
   "title": "PlushSource",
-  "description": "Search, filter and compare verified custom plush manufacturers from the PlushSource directory.",
+  "description": "Search, filter and compare custom plush manufacturers listed in the PlushSource directory.",
   "websiteUrl": "https://plushsource.com",
   "repository": {
     "url": "https://github.com/quickman924/plushsource-mcp",

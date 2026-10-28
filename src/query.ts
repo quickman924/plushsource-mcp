@@ -262,7 +262,7 @@ export function facetCounts(list: Manufacturer[]): Facets {
 export interface ManufacturerSummary {
   slug: string;
   name: string;
-  /** PlushSource listing page (editorial profile and verification date); null if not listed yet. */
+  /** PlushSource listing page (written profile and last-checked date); null if not listed yet. */
   url: string | null;
   website: string;
   country: CountrySlug | null;

@@ -1,7 +1,7 @@
 {
   "name": "plushsource-mcp",
   "version": "0.1.1",
-  "description": "MCP server for the PlushSource directory of custom plush manufacturers",
+  "description": "MCP server for the PlushSource directory, which lists custom plush manufacturers and does not audit them",
   "mcpName": "io.github.quickman924/plushsource-mcp",
   "homepage": "https://plushsource.com",
   "repository": {

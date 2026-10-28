@@ -66,8 +66,9 @@ manufacturer's own public pages. Each row links to its PlushSource listing.
 - Download: [CSV](data/manufacturers.csv) or [JSON](data/manufacturers.json)
 - Columns and allowed values: [data/README.md](data/README.md)
 
-A listing is not an endorsement, a ranking or a quality guarantee. PlushSource does not quote,
-sample or take orders. Contact manufacturers directly.
+A listing is not an endorsement, a certification, a ranking or a quality guarantee. PlushSource
+does not independently audit or verify manufacturers; facts are recorded as the manufacturer
+states them. PlushSource does not quote, sample or take orders. Contact manufacturers directly.
 
 ## Add or correct a manufacturer
 

@@ -6,9 +6,10 @@ file you edit in a pull request.
 `manufacturers.json` and [`../MANUFACTURERS.md`](../MANUFACTURERS.md) are generated from the CSV by
 `npm run generate`. CI fails if they are out of date. The MCP server bundles `manufacturers.json`.
 
-The data covers facts only: what each manufacturer publicly states about itself. It has no
-descriptions, reviews, logos or personal contact details. The written profile for each listed
-manufacturer is on its page at [plushsource.com](https://plushsource.com).
+The data covers facts only: what each manufacturer publicly states about itself. PlushSource does
+not independently audit or verify manufacturers, and a listing is not an endorsement or a
+certification. It has no descriptions, reviews, logos or personal contact details. The written
+profile for each listed manufacturer is on its page at [plushsource.com](https://plushsource.com).
 
 Licence: [CC BY 4.0](LICENSE). Credit "PlushSource" with a link to https://plushsource.com.
 
