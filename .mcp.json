@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "plushsource-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "plushsource-mcp"
+      ]
+    }
+  }
+}
