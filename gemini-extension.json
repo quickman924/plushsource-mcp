@@ -1,0 +1,11 @@
+{
+  "name": "plushsource",
+  "version": "0.1.2",
+  "description": "MCP server for the PlushSource directory, which lists custom plush manufacturers and does not audit them",
+  "mcpServers": {
+    "plushsource": {
+      "command": "npx",
+      "args": ["-y", "plushsource-mcp"]
+    }
+  }
+}
