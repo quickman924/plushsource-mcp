@@ -1,5 +1,7 @@
 # PlushSource MCP and open plush manufacturer list
 
+[![quickman924/plushsource-mcp MCP server](https://glama.ai/mcp/servers/quickman924/plushsource-mcp/badges/score.svg)](https://glama.ai/mcp/servers/quickman924/plushsource-mcp)
+
 An MCP server and an open, facts-only list of custom plush manufacturers, from
 **[PlushSource](https://plushsource.com)**, the independent directory of custom plush manufacturers.
 
